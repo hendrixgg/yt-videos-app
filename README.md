@@ -65,15 +65,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-Vercel deployment details:
-Linked to hendrixg10-gmailcom/videos-with-hooks (created .vercel and added it to .gitignore)
-🔍 Inspect: https://vercel.com/hendrixg10-gmailcom/videos-with-hooks/9vHXuwh7cLuA13zSfiK5DiVxW3Z9 [1s]
-✅ Production: https://videos-with-hooks-beta.vercel.app [copied to clipboard] [57s]
-📝 Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F).
-💡 To change the domain or build command, go to https://vercel.com/hendrixg10-gmailcom/videos-with-hooks/settings
-
-github repository: https://github.com/hendrixgg/yt-videos-app.git
-
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
