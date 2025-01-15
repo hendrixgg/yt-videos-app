@@ -1,5 +1,10 @@
 # Viewing the Web App
+Click one of the links below to access the application.
+
+
 site hosted with netlify: https://frabjous-lamington-fbc18a.netlify.app/
+
+
 site hosted with vercel: https://videos-with-hooks-beta.vercel.app/
 # Getting Started with Create React App
 
