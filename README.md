@@ -1,5 +1,5 @@
 # Viewing the Web App
-Click one of the links below to access the application.
+Click one of the links below to access the web application.
 
 
 site hosted with netlify: https://frabjous-lamington-fbc18a.netlify.app/
