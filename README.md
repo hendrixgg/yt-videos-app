@@ -1,11 +1,12 @@
 # Viewing the Web App
+I recently took down those sites because I deleted the associated netlify and vercel accounts.
+```
 Click one of the links below to access the web application.
-
 
 site hosted with netlify: https://frabjous-lamington-fbc18a.netlify.app/
 
-
 site hosted with vercel: https://videos-with-hooks-beta.vercel.app/
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
